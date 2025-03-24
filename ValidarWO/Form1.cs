@@ -52,7 +52,7 @@ namespace ValidarWO
             }
             else
             {
-                mostrarMensaje("Llene todos los ", status);
+                mostrarMensaje("Llene todos los campos.. ", status);
             }
 
         }
